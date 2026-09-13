@@ -1,0 +1,25 @@
+title: Tax Affairs
+description: >-
+  Tax Affairs is an Andhra Pradesh-based consultancy for Income Tax, GST,
+  Accounting, Compliance and Bank Loan Project Reports — Advisory,
+  Compliance and Litigation under one roof, serving clients across the state.
+url: "https://taxaffairsindia.in"
+baseurl: "/taxaffairsindia"
+
+firm_name: "Tax Affairs"
+firm_tagline: "Advisory | Compliance | Litigation"
+office_city: "Proddatur"
+office_district: "YSR Kadapa District"
+office_state: "Andhra Pradesh"
+phone: "+91 91774 06648"
+phone_tel: "+919177406648"
+whatsapp: "919177406648"
+email: "taxaffairsindia@gmail.com"
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

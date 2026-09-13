@@ -1,0 +1,203 @@
+# Rayalaseema
+- name: Proddatur
+  slug: proddatur
+  district: YSR Kadapa District
+  region: Rayalaseema
+  lat: 14.7502
+  lng: 78.5481
+  url: /locations/best-tax-consultant-proddatur.html
+  note: "our home base — walk-in appointments available here"
+- name: Kadapa
+  slug: kadapa
+  district: YSR Kadapa District
+  region: Rayalaseema
+  lat: 14.4673
+  lng: 78.8242
+  url: /locations/best-tax-consultant-kadapa.html
+  note: "the district headquarters, a short drive from our Proddatur office"
+- name: Kurnool
+  slug: kurnool
+  district: Kurnool District
+  region: Rayalaseema
+  lat: 15.8281
+  lng: 78.0373
+  url: /locations/best-tax-consultant-kurnool.html
+  note: "a Rayalaseema commercial hub with a large trading and MSME base"
+- name: Anantapur
+  slug: anantapur
+  district: Anantapur District
+  region: Rayalaseema
+  lat: 14.6819
+  lng: 77.6006
+  url: /locations/best-tax-consultant-anantapur.html
+  note: "a Rayalaseema town with a growing MSME and services sector"
+- name: Tirupati
+  slug: tirupati
+  district: Tirupati District
+  region: Rayalaseema
+  lat: 13.6288
+  lng: 79.4192
+  url: /locations/best-tax-consultant-tirupati.html
+  note: "home to a large services, hospitality and NRI-linked client base"
+- name: Rayachoti
+  slug: rayachoti
+  district: Annamayya District
+  region: Rayalaseema
+  lat: 14.0500
+  lng: 78.7500
+  url: /locations/best-tax-consultant-rayachoti.html
+  note: "the district headquarters for Annamayya, with a strong trading community"
+- name: Madanapalli
+  slug: madanapalli
+  district: Annamayya District
+  region: Rayalaseema
+  lat: 13.5503
+  lng: 78.5031
+  url: /locations/best-tax-consultant-madanapalli.html
+  note: "a fast-growing town with dairy, trade and education-linked businesses"
+- name: Dharmavaram
+  slug: dharmavaram
+  district: Sri Sathya Sai District
+  region: Rayalaseema
+  lat: 14.4300
+  lng: 77.7200
+  url: /locations/best-tax-consultant-dharmavaram.html
+  note: "a handloom and silk-weaving town with a large trading community"
+- name: Hindupur
+  slug: hindupur
+  district: Sri Sathya Sai District
+  region: Rayalaseema
+  lat: 13.8300
+  lng: 77.4900
+  url: /locations/best-tax-consultant-hindupur.html
+  note: "an industrial town near the Karnataka border with a strong MSME base"
+- name: Nandyal
+  slug: nandyal
+  district: Nandyal District
+  region: Rayalaseema
+  lat: 15.4777
+  lng: 78.4873
+  url: /locations/best-tax-consultant-nandyal.html
+  note: "the district headquarters, with agri-trade and cement-belt businesses"
+
+# Coastal Andhra
+- name: Nellore
+  slug: nellore
+  district: SPSR Nellore District
+  region: Coastal Andhra
+  lat: 14.4426
+  lng: 79.9865
+  url: /locations/best-tax-consultant-nellore.html
+  note: "AP's most populous district, with a strong aquaculture and trading economy"
+- name: Guntur
+  slug: guntur
+  district: Guntur District
+  region: Coastal Andhra
+  lat: 16.3067
+  lng: 80.4365
+  url: /locations/best-tax-consultant-guntur.html
+  note: "an agri-trade and chilli-market economy with heavy GST compliance needs"
+- name: Vijayawada
+  slug: vijayawada
+  district: NTR District
+  region: Coastal Andhra
+  lat: 16.5062
+  lng: 80.6480
+  url: /locations/best-tax-consultant-vijayawada.html
+  note: "the state's commercial capital, dense with traders and companies"
+- name: Visakhapatnam
+  slug: visakhapatnam
+  district: Visakhapatnam District
+  region: Coastal Andhra
+  lat: 17.6868
+  lng: 83.2185
+  url: /locations/best-tax-consultant-visakhapatnam.html
+  note: "a major port and industrial city with corporate and salaried clients alike"
+- name: Rajahmundry
+  slug: rajahmundry
+  district: East Godavari District
+  region: Coastal Andhra
+  lat: 17.0005
+  lng: 81.8040
+  url: /locations/best-tax-consultant-rajahmundry.html
+  note: "a Godavari-belt trading centre with many family-run businesses"
+- name: Kakinada
+  slug: kakinada
+  district: Kakinada District
+  region: Coastal Andhra
+  lat: 16.9891
+  lng: 82.2475
+  url: /locations/best-tax-consultant-kakinada.html
+  note: "a port town with oil, gas and marine-export businesses needing GST support"
+- name: Ongole
+  slug: ongole
+  district: Prakasam District
+  region: Coastal Andhra
+  lat: 15.5057
+  lng: 80.0499
+  url: /locations/best-tax-consultant-ongole.html
+  note: "a dairy and agri-trade town along the highway corridor"
+- name: Amaravati
+  slug: amaravati
+  district: Guntur District
+  region: Coastal Andhra
+  lat: 16.5130
+  lng: 80.5165
+  url: /locations/best-tax-consultant-amaravati.html
+  note: "the state capital region, with a growing base of institutions and contractors"
+- name: Vizianagaram
+  slug: vizianagaram
+  district: Vizianagaram District
+  region: Coastal Andhra
+  lat: 18.1067
+  lng: 83.4116
+  url: /locations/best-tax-consultant-vizianagaram.html
+  note: "the district headquarters, with textile and agri-trade businesses"
+- name: Bhimavaram
+  slug: bhimavaram
+  district: West Godavari District
+  region: Coastal Andhra
+  lat: 16.5449
+  lng: 81.5212
+  url: /locations/best-tax-consultant-bhimavaram.html
+  note: "an aquaculture and jewellery-trade hub in the Godavari delta"
+- name: Tadepalli
+  slug: tadepalli
+  district: Guntur District
+  region: Coastal Andhra
+  lat: 16.4803
+  lng: 80.6186
+  url: /locations/best-tax-consultant-tadepalli.html
+  note: "part of the fast-growing Amaravati capital-region corridor"
+- name: Mangalagiri
+  slug: mangalagiri
+  district: Guntur District
+  region: Coastal Andhra
+  lat: 16.4303
+  lng: 80.5683
+  url: /locations/best-tax-consultant-mangalagiri.html
+  note: "a residential and IT hub in the Amaravati capital region"
+- name: Amalapuram
+  slug: amalapuram
+  district: Konaseema District
+  region: Coastal Andhra
+  lat: 16.5785
+  lng: 82.0080
+  url: /locations/best-tax-consultant-amalapuram.html
+  note: "the district headquarters for Konaseema, with a strong agri-trade base"
+- name: Eluru
+  slug: eluru
+  district: Eluru District
+  region: Coastal Andhra
+  lat: 16.7107
+  lng: 81.0952
+  url: /locations/best-tax-consultant-eluru.html
+  note: "the district headquarters, with rice-trade and manufacturing businesses"
+- name: Tenali
+  slug: tenali
+  district: Guntur District
+  region: Coastal Andhra
+  lat: 16.2428
+  lng: 80.6400
+  url: /locations/best-tax-consultant-tenali.html
+  note: "a long-standing trading and commission-agent town in Guntur district"
