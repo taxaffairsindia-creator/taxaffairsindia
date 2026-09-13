@@ -1,0 +1,34 @@
+<div class="top-bar">
+  <div class="container">
+    <span class="state-flag">Serving clients across {{ site.office_state }}</span>
+    <span class="top-bar-right"><a class="top-bar-phone" href="tel:{{ site.phone_tel }}">📞 {{ site.phone }}</a> <span class="top-bar-sep">|</span> <a href="mailto:{{ site.email }}">{{ site.email }}</a></span>
+  </div>
+</div>
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/img/logo-horizontal.png' | relative_url }}" alt="{{ site.firm_name }} — {{ site.firm_tagline }}">
+    </a>
+    <div class="header-right">
+      <nav class="main-nav" id="main-nav" aria-label="Primary">
+        <ul>
+          <li><a href="{{ '/services/income-tax.html' | relative_url }}">Income Tax</a></li>
+          <li><a href="{{ '/services/gst.html' | relative_url }}">GST</a></li>
+          <li><a href="{{ '/services/accounting-bookkeeping.html' | relative_url }}">Accounting</a></li>
+          <li><a href="{{ '/services/other-compliances.html' | relative_url }}">Compliance</a></li>
+          <li><a href="{{ '/services/loan-project-reports.html' | relative_url }}">Loans &amp; Reports</a></li>
+          <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+          <li class="nav-cta-mobile"><a href="{{ '/contact.html' | relative_url }}">Book a Consultation</a></li>
+          <li class="nav-phone-mobile"><a href="tel:{{ site.phone_tel }}">📞 {{ site.phone }}</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <a class="header-phone" href="tel:{{ site.phone_tel }}">{{ site.phone }}</a>
+        <a class="header-cta" href="{{ '/contact.html' | relative_url }}">Book a Consultation</a>
+      </div>
+    </div>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>

@@ -1,0 +1,89 @@
+---
+layout: default
+title: "Best Tax Consultant in Vijayawada, Andhra Pradesh | Income Tax, GST & Accounting | Tax Affairs"
+description: "Tax advisory and compliance services in Vijayawada, NTR District — Income Tax filing, GST registration & returns, Accounting & Bookkeeping, compliance, and Bank Loan Project Reports. Book a consultation online."
+keywords: "best tax consultant vijayawada, tax affairs vijayawada, income tax filing vijayawada, gst consultant vijayawada, gst registration vijayawada, accountant vijayawada, bank loan project report vijayawada, tax advisory ntr district"
+geo_lat: 16.5062
+geo_lng: 80.648
+geo_name: "Vijayawada, Andhra Pradesh, India"
+region: "Coastal Andhra"
+---
+<section class="hero">
+  <div class="diagonal-accent"></div>
+  <div class="container">
+    <p class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / Vijayawada</p>
+      <p class="eyebrow">NTR District &middot; Andhra Pradesh</p>
+      <h1>Best Tax Consultant in Vijayawada, Andhra Pradesh</h1>
+      <p class="lede">{{ site.firm_name }} provides Income Tax, GST, Accounting and Compliance services to individuals and businesses in Vijayawada and across NTR District. Most work is handled online — documents move over WhatsApp and email, with calls scheduled around your time.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="{{ '/contact.html' | relative_url }}">Book a Free Consultation</a>
+        <a class="btn btn-outline" href="https://wa.me/{{ site.whatsapp }}">Chat on WhatsApp</a>
+      </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="section-head">
+      <p class="kicker">Serving Vijayawada</p>
+      <h2>What clients in Vijayawada come to us for</h2>
+      <p>As the state's commercial capital, Vijayawada has a dense base of companies and traders needing ROC compliance alongside routine GST and Income Tax filing.</p>
+    </div>
+    <div class="card-grid">
+      <div class="pcard">
+        <span class="pill">01</span>
+        <h3>Income Tax</h3>
+        <p>ITR filing for salaried individuals, professionals and businesses in Vijayawada; capital gains; notice response.</p>
+        <div class="price">Starting &#8377;999</div>
+        <a class="go" href="{{ '/services/income-tax.html' | relative_url }}">Details &rarr;</a>
+      </div>
+      <div class="pcard">
+        <span class="pill">02</span>
+        <h3>GST</h3>
+        <p>Registration, return filing, reconciliation and notice/appeal drafting for Vijayawada businesses.</p>
+        <div class="price">Starting &#8377;1,999</div>
+        <a class="go" href="{{ '/services/gst.html' | relative_url }}">Details &rarr;</a>
+      </div>
+      <div class="pcard">
+        <span class="pill">03</span>
+        <h3>Accounting &amp; Bookkeeping</h3>
+        <p>Monthly books and reconciliation for Vijayawada shops, traders and professionals.</p>
+        <div class="price">Reasonable charges</div>
+        <a class="go" href="{{ '/services/accounting-bookkeeping.html' | relative_url }}">Details &rarr;</a>
+      </div>
+      <div class="pcard">
+        <span class="pill">04</span>
+        <h3>Other Compliances</h3>
+        <p>ROC filings, TDS returns and PAN/Aadhaar services for Vijayawada companies and individuals.</p>
+        <div class="price">Starting &#8377;999</div>
+        <a class="go" href="{{ '/services/other-compliances.html' | relative_url }}">Details &rarr;</a>
+      </div>
+      <div class="pcard">
+        <span class="pill">05</span>
+        <h3>Loan &amp; Project Reports</h3>
+        <p>CMA data and project reports for Vijayawada MSMEs and traders applying for bank finance.</p>
+        <div class="price">Starting &#8377;4,999</div>
+        <a class="go" href="{{ '/services/loan-project-reports.html' | relative_url }}">Details &rarr;</a>
+      </div>
+    </div>
+    <p class="note">Prices shown are starting figures for straightforward cases and are confirmed before we begin.</p>
+  </div>
+</section>
+
+<section class="grey">
+  <div class="container">
+    <div class="section-head">
+      <p class="kicker">Also serving</p>
+      <h2>Other towns across Andhra Pradesh</h2>
+    </div>
+    <div class="town-grid">
+      {% for t in site.data.towns %}{% if t.region == page.region %}{% unless t.name == "Vijayawada" %}
+      <a class="town-card" href="{{ t.url | relative_url }}">
+        <span class="town-name">{{ t.name }}</span>
+        <span class="district">{{ t.district }}</span>
+      </a>
+      {% endunless %}{% endif %}{% endfor %}
+    </div>
+    <p class="note"><a href="{{ '/#where-we-serve' | relative_url }}">View every town we serve across Andhra Pradesh →</a></p>
+  </div>
+</section>
